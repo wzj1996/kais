@@ -1,4 +1,5 @@
 $(document).ready(function () {
+        alert(1)
         $("#fullpage").fullpage({
             //可以为每个section项分配一个颜色
             sectionsColor:["","","","",""],
